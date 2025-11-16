@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reeteshprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="reeteshprajapati" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reeteshdaksh26" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshdaksh26?logo=twitter&style=for-the-badge" alt="reeteshdaksh26" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/reetesh-prajapati-3ba513280/" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshdaksh26?logo=twitter&style=for-the-badge" alt="reeteshprajapati" /></a> </p>
 
 - 🌱 I’m currently learning **Java Full Stack, Spring Boot ,DSA ,Web Development, etc.**
 
