@@ -1,180 +1,52 @@
-```md
-<h1 align="center">Hey 👋 I'm Reetesh Prajapati</h1>
-<h3 align="center">🚀 Full Stack Java Developer | Spring Boot Enthusiast | UI Designer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+%7C+JavaScript+%7C+MySQL;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-</p>
+<h1 align="center">Hi 👋, I'm Reetesh Prajapati</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
----
+<img align="right" alt="coding" height="200" width="200" border-radius="50%"  src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reeteshprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="reeteshprajapati" /> </p>
 
-# 💫 About Me
+<p align="left"> <a href="https://www.linkedin.com/in/reetesh-prajapati-3ba513280/" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshdaksh26?logo=twitter&style=for-the-badge" alt="reeteshprajapati" /></a> </p>
 
-💻 Passionate Full Stack Developer from India  
-🚀 Building scalable and real-world applications  
-🌱 Currently learning **Java Full Stack, Spring Boot, DSA & Advanced Web Development**  
-🎯 Focused on Backend Development & Premium UI Design  
-🏆 State-Level Chess Player  
-⚡ Fun Fact: I turn coffee into code ☕  
+- 🌱 I’m currently learning **Java Full Stack, Spring Boot ,DSA ,Web Development, etc.**
 
----
+- 👨‍💻 All of my projects are available at [https://reeteshprajapati.github.io/My-portfilo/](https://reeteshprajapati.github.io/My-portfilo/)
 
-# 🌐 Connect With Me
+- 📫 How to reach me **reeetshprajapati16@gmail.com**
 
+- 📄 Know about my experiences [Currently I'm Fresher](Currently I'm Fresher)
+
+- ⚡ Fun fact **I am funny😊**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/reetesh-prajapati-3ba513280/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" />
-</a>
-
-<a href="https://github.com/Reeteshprajapati" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" />
-</a>
-
-<a href="https://instagram.com/reetesh_prajapati26" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" width="45" />
-</a>
-
-<a href="https://personal-portfolio-reetesh.netlify.app/" target="blank">
-<img align="center" src="https://img.icons8.com/fluency/48/domain.png" height="45" width="45"/>
-</a>
+<a href="https://twitter.com/reeteshdaksh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reeteshdaksh26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/reeteshprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reeteshprajapati" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/reeteshprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reeteshprajapati" height="30" width="40" /></a> -->
+<a href="https://instagram.com/reetesh_prajapati26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reetesh_prajapati26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reeteshprajapati26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reeteshprajapati26" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-# 🚀 Portfolio
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reeteshprajapati&show_icons=true&locale=en&layout=compact" alt="reeteshprajapati" /></p>
 
-🌐 **Live Portfolio Website**  
-👉 **https://personal-portfolio-reetesh.netlify.app/**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeteshprajapati&show_icons=true&locale=en" alt="reeteshprajapati" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeteshprajapati&" alt="reeteshprajapati" /></p>## Hi there 👋
 
-# 💻 Tech Stack
+<!--
+**Reeteshprajapati/Reeteshprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🚀 Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,cpp,js,php,html,css" />
-</p>
+Here are some ideas to get you started:
 
-### ⚡ Frameworks & Libraries
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,spring,bootstrap,nodejs" />
-</p>
-
-### 🛢️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🚍 Smart College Bus Tracking & Attendance System
-🔹 Real-time GPS bus tracking  
-🔹 RFID-based attendance system  
-🔹 Admin dashboard with analytics  
-🔹 AI-based route optimization  
-🔹 Spring Boot + Hibernate + MySQL  
-
----
-
-## 💰 Smart Expense & Finance Tracker
-🔹 Expense categorization  
-🔹 AI spending insights  
-🔹 OCR bill scanner  
-🔹 Monthly reports & analytics  
-🔹 Budget prediction system  
-
----
-
-## 📚 Library Management System
-🔹 Book issue & return management  
-🔹 Admin & student dashboard  
-🔹 Search & filter system  
-🔹 Responsive UI  
-
----
-
-## 🎉 Event Booking System
-🔹 Event registration platform  
-🔹 Admin event management  
-🔹 Dark mode UI  
-🔹 Real-time booking counter  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Reeteshprajapati&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeteshprajapati&theme=tokyonight&hide_border=false" height="180em"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeteshprajapati&theme=tokyonight&hide_border=false&layout=compact" height="180em"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Reeteshprajapati&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reeteshprajapati&theme=tokyo-night"/>
-</p>
-
----
-
-# 🌟 Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-<a href="https://buymeacoffee.com/">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Reeteshprajapati&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
-<h3 align="center">✨ "Code. Create. Innovate." ✨</h3>
-```
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
